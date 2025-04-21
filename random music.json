@@ -1,0 +1,13 @@
+{
+  "name": "random-music",
+  "description": "Extension to generate random music using custom blocks",
+  "dependencies": {
+    "device": "*"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "targetVersions": {
+    "arcade": "*"
+  }
+}
